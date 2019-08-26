@@ -1,29 +1,10 @@
-# hello-world
+# Get Started
 
 ## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1 Step: Add a .env file
+2 Step: Copy/paste this into the file
+MONGO_URL=""
+PORT=
+JWT_SECRET_DEV=""
+3 Step:
+Run yarn serve in web folder and yarn start in api folder
